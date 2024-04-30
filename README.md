@@ -8,7 +8,8 @@ This project involves performing Exploratory Data Analysis (EDA) on the Iris dat
 ## Overview
 The Iris dataset is a classic dataset in the field of machine learning. It contains information about various species of iris flowers, including measurements of sepal and petal lengths and widths.
 
-## Libraries Used
+## Libraries Used![Figure_1](https://github.com/tehminaasrar7/Iris-data-analysis-/assets/88709850/a4c5204b-e225-4ef8-8a5d-36beb28fac3d)
+
 - pandas
 - seaborn
 - matplotlib
